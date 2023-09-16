@@ -84,6 +84,16 @@
             "name": "papai",
             "description": "Quero o papai.",
             "category": "people"
+        },
+        {
+            "name": "sim",
+            "description": "Sim!",
+            "category": "communication"
+        },
+        {
+            "name": "nao",
+            "description": "Não!",
+            "category": "communication"
         }
     ]
 }
