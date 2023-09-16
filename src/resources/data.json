@@ -1,0 +1,89 @@
+{
+    "database": [
+        {
+            "name": "agua_copo",
+            "description": "Beber água no copo.",
+            "category": "drink"
+        },
+        {
+            "name": "banana",
+            "description": "Comer banana.",
+            "category": "food"
+        },
+        {
+            "name": "banho",
+            "description": "Tomar banho.",
+            "category": "higiene"
+        },
+        {
+            "name": "bolinho",
+            "description": "Comer bolinho.",
+            "category": "food"
+        },
+        {
+            "name": "bolofofo",
+            "description": "Assistir bolofofo.",
+            "category": "indoor-fun"
+        },
+        {
+            "name": "brinquedo",
+            "description": "Brincar com brinquedo.",
+            "category": "indoor-fun"
+        },
+        {
+            "name": "danone_garrafa",
+            "description": "Beber danone de garrafa.",
+            "category": "drink"
+        },
+        {
+            "name": "danoninho",
+            "description": "Comer danoninho.",
+            "category": "food"
+        },
+        {
+            "name": "desenho",
+            "description": "Assistir desenho.",
+            "category": "indoor-fun"
+        },
+        {
+            "name": "livro",
+            "description": "Ler livro.",
+            "category": "indoor-fun"
+        },
+        {
+            "name": "lousa",
+            "description": "Desenhar na lousa.",
+            "category": "indoor-fun"
+        },
+        {
+            "name": "mundo_bita",
+            "description": "Assistir Mundo Bita.",
+            "category": "indoor-fun"
+        },
+        {
+            "name": "parquinho",
+            "description": "Ir ao parquinho.",
+            "category": "outdoor-fun"
+        },
+        {
+            "name": "piscina",
+            "description": "Ir na piscina.",
+            "category": "outdoor-fun"
+        },
+        {
+            "name": "suco",
+            "description": "Beber suco.",
+            "category": "drink"
+        },
+        {
+            "name": "mamae",
+            "description": "Quero a mamãe.",
+            "category": "people"
+        },
+        {
+            "name": "papai",
+            "description": "Quero o papai.",
+            "category": "people"
+        }
+    ]
+}
